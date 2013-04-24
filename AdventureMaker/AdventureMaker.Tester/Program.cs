@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using AdventureMaker.Core;
 
 namespace AdventureMaker.Tester
 {
@@ -9,6 +10,9 @@ namespace AdventureMaker.Tester
     {
         static void Main(string[] args)
         {
+            Executable exec = new Executable();
+            exec.Run();
+            Console.ReadLine();
         }
     }
 }

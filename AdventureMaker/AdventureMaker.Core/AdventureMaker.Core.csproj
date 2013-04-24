@@ -40,7 +40,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enums\EDirection.cs" />
+    <Compile Include="Executable.cs" />
+    <Compile Include="Generators\ContinentGenerator.cs" />
+    <Compile Include="Generators\TerritoryGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\Randomizer.cs" />
     <Compile Include="World\Continent.cs" />
     <Compile Include="World\Territory.cs" />
   </ItemGroup>

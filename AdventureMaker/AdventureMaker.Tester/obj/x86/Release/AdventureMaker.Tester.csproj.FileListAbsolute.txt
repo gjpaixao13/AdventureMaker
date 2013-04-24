@@ -1,0 +1,7 @@
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\bin\Release\AdventureMaker.Tester.exe
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\bin\Release\AdventureMaker.Tester.pdb
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\bin\Release\AdventureMaker.Core.dll
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\bin\Release\AdventureMaker.Core.pdb
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\obj\x86\Release\AdventureMaker.Tester.exe
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Tester\obj\x86\Release\AdventureMaker.Tester.pdb
