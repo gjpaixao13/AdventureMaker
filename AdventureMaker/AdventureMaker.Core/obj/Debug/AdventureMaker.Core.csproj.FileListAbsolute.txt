@@ -1,0 +1,5 @@
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Core\bin\Debug\AdventureMaker.Core.dll
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Core\bin\Debug\AdventureMaker.Core.pdb
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Core\obj\Debug\AdventureMaker.Core.dll
+C:\Users\gjacomo\Documents\Mine\AM\AdventureMaker\AdventureMaker\AdventureMaker.Core\obj\Debug\AdventureMaker.Core.pdb
